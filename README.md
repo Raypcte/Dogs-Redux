@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Uma rede social de fotos de cachorros. Projeto [Dogs](https://github.com/lucas-salles/dogs) modificado para usar Redux.
+Uma rede social de fotos de cachorros. Projeto [Dogs] modificado para usar Redux.
 
 ## Tecnologia Utilizada
 
